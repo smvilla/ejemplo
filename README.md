@@ -4,3 +4,5 @@ Agua
 Leche
 Zumo
 Chocolate
+Aguacate
+Peras
